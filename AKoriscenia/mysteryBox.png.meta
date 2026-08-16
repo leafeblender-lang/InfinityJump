@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: bdc0e972fadd70842a4ea05e68c043bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7359593482649132936
+    second: mysteryBox_0
+  - first:
+      213: -4621550857526023887
+    second: mysteryBox_1
+  - first:
+      213: 469642654351782157
+    second: mysteryBox_2
+  - first:
+      213: -7179090822603825196
+    second: mysteryBox_3
+  - first:
+      213: -3635592076326062258
+    second: mysteryBox_4
+  - first:
+      213: -2128272805390220641
+    second: mysteryBox_5
+  - first:
+      213: -6391138019707254379
+    second: mysteryBox_6
+  - first:
+      213: -8847739727643274874
+    second: mysteryBox_7
+  - first:
+      213: -4238886933105218108
+    second: mysteryBox_8
+  - first:
+      213: 7092803688046290237
+    second: mysteryBox_9
+  - first:
+      213: -6853628443540488608
+    second: mysteryBox_10
+  - first:
+      213: 6372302556351642360
+    second: mysteryBox_11
+  - first:
+      213: -4532751332659075524
+    second: mysteryBox_12
+  - first:
+      213: 2058462648623792773
+    second: mysteryBox_13
+  - first:
+      213: 3905979846098218722
+    second: mysteryBox_14
+  - first:
+      213: 9059544414670523573
+    second: mysteryBox_15
+  - first:
+      213: 2102346241526820506
+    second: mysteryBox_16
+  - first:
+      213: 4049492778377628316
+    second: mysteryBox_17
+  - first:
+      213: 5423636820745263269
+    second: mysteryBox_18
+  - first:
+      213: -8205242189813651233
+    second: mysteryBox_19
+  - first:
+      213: -3374801852391188148
+    second: mysteryBox_20
+  - first:
+      213: 3491893097465797630
+    second: mysteryBox_21
+  - first:
+      213: 9215014137298699515
+    second: mysteryBox_22
+  - first:
+      213: 4645164510401822677
+    second: mysteryBox_23
+  - first:
+      213: -7580015945223183143
+    second: mysteryBox_24
+  - first:
+      213: -6182186494659948209
+    second: mysteryBox_25
+  - first:
+      213: -5855773004837463769
+    second: mysteryBox_26
+  - first:
+      213: 4573366101864737285
+    second: mysteryBox_27
+  - first:
+      213: 6537011459121611024
+    second: mysteryBox_28
+  - first:
+      213: 2315269970272454368
+    second: mysteryBox_29
+  - first:
+      213: -7077205031003437762
+    second: mysteryBox_30
+  - first:
+      213: -6194625709320265985
+    second: mysteryBox_31
+  - first:
+      213: 4137819866014280627
+    second: mysteryBox_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mysteryBox_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1160
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8702b6768b87dd990800000000000000
+      internalID: -7359593482649132936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1148
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13962c92bf3fcdfb0800000000000000
+      internalID: -4621550857526023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1164
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0172008181848600800000000000000
+      internalID: 469642654351782157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_3
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1144
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df9e6ceeeebe5c90800000000000000
+      internalID: -7179090822603825196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1155
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e473c5ec448cb8dc0800000000000000
+      internalID: -3635592076326062258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1175
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928799d82bd672e0800000000000000
+      internalID: -2128272805390220641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_6
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1163
+        width: 112
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990bd035dd1e47a0800000000000000
+      internalID: -6391138019707254379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1159
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68116b45893863580800000000000000
+      internalID: -8847739727643274874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_8
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1164
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde73dfac27c25c0800000000000000
+      internalID: -4238886933105218108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1148
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35649fff53be6260800000000000000
+      internalID: 7092803688046290237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1146
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e71402e3503e0a0800000000000000
+      internalID: -6853628443540488608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1156
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa37a0c967fe6850800000000000000
+      internalID: 6372302556351642360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 1172
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c366da1bdae6811c0800000000000000
+      internalID: -4532751332659075524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_13
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1140
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58281aa6fd0219c10800000000000000
+      internalID: 2058462648623792773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_14
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1137
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eee48aa9f3d43630800000000000000
+      internalID: 3905979846098218722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1129
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8f4745a7f9bd70800000000000000
+      internalID: 9059544414670523573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_16
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1124
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e651994c80d2d10800000000000000
+      internalID: 2102346241526820506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_17
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 968
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a45bf0a30b23830800000000000000
+      internalID: 4049492778377628316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_18
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 948
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8104be3f0a44b40800000000000000
+      internalID: 5423636820745263269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_19
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 755
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8eb1c93bf112e80800000000000000
+      internalID: -8205242189813651233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_20
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 471
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4994e0889b4a21d0800000000000000
+      internalID: -3374801852391188148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 118
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb56147542b57030800000000000000
+      internalID: 3491893097465797630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 142
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf444edd88e42ef70800000000000000
+      internalID: 9215014137298699515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df70c5d280f67040800000000000000
+      internalID: 4645164510401822677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 93
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ec2198af5ec690800000000000000
+      internalID: -7580015945223183143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 93
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4193924326743aa0800000000000000
+      internalID: -6182186494659948209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 82
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72957513a7d1cbea0800000000000000
+      internalID: -5855773004837463769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 84
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae5792d3cd77f30800000000000000
+      internalID: 4573366101864737285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_28
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 84
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0110a99994128ba50800000000000000
+      internalID: 6537011459121611024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_29
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 87
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6083965cd712020800000000000000
+      internalID: 2315269970272454368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_30
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 79
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ce6c5587b8cd90800000000000000
+      internalID: -7077205031003437762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_31
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 95
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe9677ecb4480aa0800000000000000
+      internalID: -6194625709320265985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mysteryBox_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 73
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe55abe3d7c6930800000000000000
+      internalID: 4137819866014280627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mysteryBox_0: -7359593482649132936
+      mysteryBox_1: -4621550857526023887
+      mysteryBox_10: -6853628443540488608
+      mysteryBox_11: 6372302556351642360
+      mysteryBox_12: -4532751332659075524
+      mysteryBox_13: 2058462648623792773
+      mysteryBox_14: 3905979846098218722
+      mysteryBox_15: 9059544414670523573
+      mysteryBox_16: 2102346241526820506
+      mysteryBox_17: 4049492778377628316
+      mysteryBox_18: 5423636820745263269
+      mysteryBox_19: -8205242189813651233
+      mysteryBox_2: 469642654351782157
+      mysteryBox_20: -3374801852391188148
+      mysteryBox_21: 3491893097465797630
+      mysteryBox_22: 9215014137298699515
+      mysteryBox_23: 4645164510401822677
+      mysteryBox_24: -7580015945223183143
+      mysteryBox_25: -6182186494659948209
+      mysteryBox_26: -5855773004837463769
+      mysteryBox_27: 4573366101864737285
+      mysteryBox_28: 6537011459121611024
+      mysteryBox_29: 2315269970272454368
+      mysteryBox_3: -7179090822603825196
+      mysteryBox_30: -7077205031003437762
+      mysteryBox_31: -6194625709320265985
+      mysteryBox_32: 4137819866014280627
+      mysteryBox_4: -3635592076326062258
+      mysteryBox_5: -2128272805390220641
+      mysteryBox_6: -6391138019707254379
+      mysteryBox_7: -8847739727643274874
+      mysteryBox_8: -4238886933105218108
+      mysteryBox_9: 7092803688046290237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

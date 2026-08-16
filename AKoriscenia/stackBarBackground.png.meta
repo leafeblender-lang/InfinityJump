@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 40a9cc1d299efea4aa231b4bea4656ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -404247563469427143
+    second: stackBarBackground_0
+  - first:
+      213: 2280692269882017960
+    second: stackBarBackground_1
+  - first:
+      213: 8575318962703396323
+    second: stackBarBackground_2
+  - first:
+      213: -6439169875558247971
+    second: stackBarBackground_3
+  - first:
+      213: -508542388137938324
+    second: stackBarBackground_4
+  - first:
+      213: -5491893462315538535
+    second: stackBarBackground_5
+  - first:
+      213: -2037211102449896149
+    second: stackBarBackground_6
+  - first:
+      213: 2046658398304661700
+    second: stackBarBackground_7
+  - first:
+      213: -6697615013400881384
+    second: stackBarBackground_8
+  - first:
+      213: -3687966073726554383
+    second: stackBarBackground_9
+  - first:
+      213: -4054411002443275860
+    second: stackBarBackground_10
+  - first:
+      213: -5520889351958986779
+    second: stackBarBackground_11
+  - first:
+      213: -7647475339772784226
+    second: stackBarBackground_12
+  - first:
+      213: 4360599234622274727
+    second: stackBarBackground_13
+  - first:
+      213: 83479443070846142
+    second: stackBarBackground_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stackBarBackground_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 1980
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e661a9bf2d36af0800000000000000
+      internalID: -404247563469427143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 662
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a80c4c2985a6af10800000000000000
+      internalID: 2280692269882017960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 659
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6b9f9927a10770800000000000000
+      internalID: 8575318962703396323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 663
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd154f64d1973a6a0800000000000000
+      internalID: -6439169875558247971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_4
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 642
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623fc1746b41f8f0800000000000000
+      internalID: -508542388137938324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_5
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 632
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997646a4effd8c3b0800000000000000
+      internalID: -5491893462315538535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_6
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 614
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25fdf1cb4f5ab3e0800000000000000
+      internalID: -2037211102449896149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_7
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 626
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0f48738f0376c10800000000000000
+      internalID: 2046658398304661700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 618
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817daeb71aa4d03a0800000000000000
+      internalID: -6697615013400881384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_9
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 610
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe26d74566b1dcc0800000000000000
+      internalID: -3687966073726554383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_10
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1eee9aca6dbb7c0800000000000000
+      internalID: -4054411002443275860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7f34a26cd163b0800000000000000
+      internalID: -5520889351958986779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_12
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 81
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91984052b5bed590800000000000000
+      internalID: -7647475339772784226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_13
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 51
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac308386e5f38c30800000000000000
+      internalID: 4360599234622274727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stackBarBackground_14
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 17
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb409467c14982100800000000000000
+      internalID: 83479443070846142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stackBarBackground_0: -404247563469427143
+      stackBarBackground_1: 2280692269882017960
+      stackBarBackground_10: -4054411002443275860
+      stackBarBackground_11: -5520889351958986779
+      stackBarBackground_12: -7647475339772784226
+      stackBarBackground_13: 4360599234622274727
+      stackBarBackground_14: 83479443070846142
+      stackBarBackground_2: 8575318962703396323
+      stackBarBackground_3: -6439169875558247971
+      stackBarBackground_4: -508542388137938324
+      stackBarBackground_5: -5491893462315538535
+      stackBarBackground_6: -2037211102449896149
+      stackBarBackground_7: 2046658398304661700
+      stackBarBackground_8: -6697615013400881384
+      stackBarBackground_9: -3687966073726554383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
